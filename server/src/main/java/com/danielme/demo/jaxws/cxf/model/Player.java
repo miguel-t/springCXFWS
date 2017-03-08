@@ -7,7 +7,9 @@ package com.danielme.demo.jaxws.cxf.model;
  */
 public class Player 
 {
+	//name user
 	private String name;
+	
 	
 	private int age;
 	
